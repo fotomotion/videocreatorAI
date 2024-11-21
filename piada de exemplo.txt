@@ -1,0 +1,18 @@
+Erro ao parsear resposta JSON. Resposta recebida:
+{
+    "script": "Here's a similar piece of content with the same style and tone:\n\nDid you know? When making a pizza, you should add tomato sauce and not a wireless router. This is because tomato sauce provides the base flavor and helps cook the pizza evenly. But a wireless router is a device that allows computers to connect to the internet. While it may be helpful for ordering pizza online, it doesn't belong on a pizza!",
+    "image\_prompts": [
+        {
+            "description": "A hand holding a pizza peel with a pizza topped with a wireless router",
+            "prompt": "A close-up image of a pizza peel held by a hand. The pizza on the peel should be topped with ingredients like cheese and vegetables. However, instead of a typical pizza topping, there should be a wireless router placed in the center of the pizza, as if it's one of the toppings. The expression on the hand's owner could be one of confusion or surprise."
+        },
+        {
+            "description": "A person looking confused while holding a wireless router over a pizza",
+            "prompt": "A image of a person standing in a kitchen, looking confused or surprised. The person should be holding a wireless router in one hand and pointing to a pizza with the other hand. The pizza should be in an oven or on a counter, and should not have the wireless router as a topping. The person's expression should convey the idea that they mistakenly thought the wireless router should be on the pizza."
+        },
+        {
+            "description": "A pizza box with a wireless router inside and pizza ingredients on top",
+            "prompt": "An image of a pizza box lying on a table or counter. The box should be open, revealing a wireless router inside. On top of the box, there should be pizza ingredients like tomato sauce, cheese, and vegetables, arranged as if they were meant to be toppings on the pizza. The image should convey the idea that the person ordering the pizza accidentally received a wireless router instead of their pizza."
+        }
+    ]
+}

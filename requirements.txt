@@ -1,0 +1,6 @@
+# requirements.txt
+whisper-openai==1.0.0
+groq==0.12.0
+replicate==0.21.1
+python-dotenv==1.0.0
+moviepy==1.0.3
